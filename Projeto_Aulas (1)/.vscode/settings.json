@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "Projeto_Aulas\\bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a840b158-f8eb-4ca4-8571-ec3f2f285db8/resourceGroups/Aula/providers/Microsoft.Web/sites/Projeto-aulas-nicolas"
+}
